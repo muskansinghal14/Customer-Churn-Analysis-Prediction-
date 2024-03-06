@@ -37,7 +37,12 @@ The next task was to categorize the numerical and categorical variables. The cat
 2) The test accuracy of the Decision Tree is 90.6%, the Gradient Boosting Classifier is 79.8%, and the Logistic Regression is 64.6% while the Random Forest Classifier had a test accuracy of 93.6%. Test accuracy here refers to the number of correctly predicted labels divided by the total number of labels.
 3) After reviewing the results of the Logistic Regression, Decision Trees, and Gradient Boosting Classifier, it was evident that the dataset could perform better on a classifier that deals with complex attributes and multiple dependencies. This is why the Random Forest Classifier was chosen, and the results showed an improvement. 
 4) Since the data imbalance existed, The F1 score was also calculated to see how well the classifier performed on individual classes. The Decision Tree had an F1-score of 0.90 and 0.91 while the Random Forest Classifier had an F1-score of 0.93 and 0.94. 
-5) Thus it was proven that Random Forest Classifiers had an overall better performance.  
+
+## CONCLUSION
+
+Developed a classifier i.e. Random Forest Classifier that allowed me to predict whether a customer will leave or not with an accuracy of  93.6%. This can help in identifying potentially vulnerable customers who are planning to leave, and we can act in ways to retain them. 
+
+
 
 
 
