@@ -36,3 +36,5 @@ The next task was to categorize the numerical and categorical variables. The cat
 
 
 
+
+
