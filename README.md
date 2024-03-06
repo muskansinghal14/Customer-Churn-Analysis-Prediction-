@@ -18,6 +18,7 @@ The next task was to categorize the numerical and categorical variables. The cat
 
 ## POWER BI DASHBOARD
 
+![Bank customer Churn Dashboard](https://github.com/muskansinghal14/Customer-Churn-Analysis-Prediction-/assets/140623673/24d1efcd-5d17-4f0d-b487-ef6174fcc331)
 
 
 
