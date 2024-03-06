@@ -7,7 +7,7 @@ The goal of this project is to build a machine learning model that can accuratel
 
 The dataset provided had 10,000 rows and 14 attributes such as Credit Score, Gender, Age, Tenure, Estimated Salary, and more. A classifier is being built to determine which customers will Exit and which will not. Here, I have to deal with a **classification problem** whose main focus is to predict Discrete Values.
 
-_**PROBLEM STATEMENT**_
+## PROBLEM STATEMENT
 
 The project focuses on providing a data-driven solution to predict whether a customer will churn or not.
 
@@ -18,7 +18,6 @@ The next task was to categorize the numerical and categorical variables. The cat
 
 _**POWER BI DASHBOARD**_
 
-C:\Users\ajayg\OneDrive\Pictures\Screenshots\Bank customer Churn Dashboard.jpg
 
 
 
